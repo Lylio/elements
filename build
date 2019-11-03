@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "a=6 and b=7... let's add the two numbers together:"
+
+a=6
+b=7
+
+sum=$(($a + $b))
+
+echo "The total is $sum"
