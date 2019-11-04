@@ -3,6 +3,6 @@
 echo "This is the build file... NO FILE EXTENSION"
 x=100
 y=159
-total=x+y
+total=$x+$y
 
 echo "The total is $total"
