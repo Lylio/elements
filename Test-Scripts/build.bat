@@ -11,5 +11,5 @@ echo The total in the Python file is: %total%
 echo Attempting to call adder.py script... (python ./adder.py)
 echo Current directory is %cd%
 
-python ./adder.py
+python ./adder-outside.py
 
