@@ -9,8 +9,8 @@ SET /a total=%a+%b
 echo The total in the Python file is: %total%
 
 echo Attempting to call adder.py script... (python adder.py)
-python /Test-Scripts/adder.py
+python ../adder.py
 
 echo Attempting to call adder.py script... @py adder.py)
-@py /Test-Scripts/adder.py
+@py ../adder.py
 
