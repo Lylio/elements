@@ -8,7 +8,7 @@ SET /a total=%a+%b
 
 echo The total in the Python file is: %total%
 
-echo Attempting to call adder.py script... (python ./adder.py)
+echo Attempting to call adder-outside.py script... (python ./adder-outside.py)
 echo Current directory is %cd%
 
 python ./adder-outside.py
