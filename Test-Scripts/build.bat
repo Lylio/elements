@@ -13,5 +13,5 @@ python ./adder-outside.py
 
 
 echo Attempting to call adder-inside.py script... (python adder-inside.py)
-python adder-inside.py
+python /Test-Scripts/adder-inside.py
 
