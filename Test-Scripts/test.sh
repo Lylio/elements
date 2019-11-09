@@ -2,7 +2,7 @@
 
 echo "This is the test.sh file...."
 echo ""
-file="./Test/Scripts/employees.txt"
+file="./Test-Scripts/employees.txt"
 echo "Print managers from the employees text file..."
 awk '/manager/ {print}' $file
 printf "\n"
