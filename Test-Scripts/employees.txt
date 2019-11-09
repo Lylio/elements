@@ -5,4 +5,4 @@ alfie manager account 47000
 donny peon sales 15000
 tommy clerk sales 23000
 billy peon sales 13000
-willie director purchase 80000
+ali director purchase 80000
