@@ -2,5 +2,4 @@
 
 echo "This is the test.sh file...."
 
-file="Test-Scripts/employees.txt"
-cat file
+cat employees.txt
