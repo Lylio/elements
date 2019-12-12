@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
 echo "This is the build.sh file..."
+
+echo "*** This is an update to test GitHub polling ***"
 x=10
 y=15
 total=$x+$y
