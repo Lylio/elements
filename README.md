@@ -1,6 +1,6 @@
 ![](https://github.com/Lylio/image-repo/blob/master/logos/python.png?raw=true)
 ![](https://github.com/Lylio/image-repo/blob/master/logos/bash.png?raw=true)
-![](https://github.com/Lylio/image-repo/blob/master/logos/scripts.png?raw=true)
+![](https://github.com/Lylio/image-repo/blob/master/logos/script.png?raw=true)
 
 
 
